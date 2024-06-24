@@ -1,4 +1,5 @@
-![progprnv-23-6-2024 (7)](https://github.com/progprnv/progprnv/assets/145828371/b19cab28-c7d3-4e3b-8aa1-4dacc7e03015)
+
+![ProgPrnv-24-6-2024 (1)](https://github.com/progprnv/progprnv/assets/145828371/40f43cc9-99e8-42e1-b83f-c9fdf2ff44ce)
 
 
 - 👋 Hi, I’m @progprnv
