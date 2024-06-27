@@ -1,8 +1,6 @@
 
 ![ProgPrnv-24-6-2024 (1)](https://github.com/progprnv/progprnv/assets/145828371/40f43cc9-99e8-42e1-b83f-c9fdf2ff44ce)
-
-
-
+![ProgPrnv-24-6-2024 (1)](https://github-readme-streak-stats.herokuapp.com/?user=progprnv&theme)
 
 - 👋 Hi, I’m @progprnv
 - 👀 I’m a Cybersecurity Enthusiastic & a FOSS Dev
