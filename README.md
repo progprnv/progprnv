@@ -12,9 +12,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![progprnv's github stats](https://bad-apple-github-readme.vercel.app/api?username=progprnv&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=progprnv&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=progprnv&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![progprnv's current streak](https://streak-stats.demolab.com/?user=progprnv&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
