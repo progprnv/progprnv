@@ -16,6 +16,8 @@
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=progprnv&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+[![progprnv's current streak](https://streak-stats.demolab.com/?user=progprnv&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
