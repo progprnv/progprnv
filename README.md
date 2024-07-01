@@ -8,7 +8,7 @@
 - 📫 Contact: www.instagram.com/prog.prnv
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=c,c++,html,css,js,python,kali-linux&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,python,kali_linux&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
