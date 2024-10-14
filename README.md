@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/4485a75a-56e0-4447-b6af-13b609f67afb)
-
-
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 ![](https://komarev.com/ghpvc/?username=progprnv)
 
