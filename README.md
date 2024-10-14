@@ -1,4 +1,4 @@
-![progprnv-23-6-2024 (5)](https://github.com/progprnv/progprnv/assets/145828371/4d264658-3b64-45a8-9333-b14f0ecde349)
+
 
 ![](https://komarev.com/ghpvc/?username=progprnv)
 - 👋 Hi, I’m @progprnv
