@@ -34,6 +34,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
+## Recent Tool Released
+<img src="https://github.com/user-attachments/assets/5914e7cf-5591-4266-9cb8-06c68dd7058d" alt="Project Image" width="150" height="75">
+
  
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=progprnv&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
