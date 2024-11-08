@@ -1,4 +1,6 @@
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="25%" align='left' src="https://github.com/user-attachments/assets/6453459a-7b0a-4be5-a8d0-399203ba4a4c">
+
 
 ![](https://komarev.com/ghpvc/?username=progprnv)
 
@@ -6,6 +8,7 @@
 - 👀 I’m a Cybersecurity Engineer & Dev
 - 🌱 I’m currently learning B.Tech CSE
 - 💞️ I’m looking to collaborate on projects in my niche
+
 
 
 <!--
