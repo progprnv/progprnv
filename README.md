@@ -8,8 +8,8 @@
 - 💞️ I’m looking to collaborate on projects in my niche
 
 
-
-https://github.com/user-attachments/assets/622506cf-c303-4d6d-9488-0400bb5b4099
+<!--
+https://github.com/user-attachments/assets/622506cf-c303-4d6d-9488-0400bb5b4099 -->
 
 
 
