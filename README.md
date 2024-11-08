@@ -11,6 +11,7 @@
 <!--
 https://github.com/user-attachments/assets/622506cf-c303-4d6d-9488-0400bb5b4099 -->
 
+![motivation (1)](https://github.com/user-attachments/assets/6453459a-7b0a-4be5-a8d0-399203ba4a4c)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tools & Languages:**  
