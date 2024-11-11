@@ -7,6 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=progprnv)
 
 **Myself Pranav Jayan: Cybersecurity Engineer ⚡ Web Dev 🌐**
+**With years of hands-on experience in penetration testing and securing web applications, I specialize in uncovering vulnerabilities and fortifying systems to withstand ever-evolving threats.**
 
 
 <!--
