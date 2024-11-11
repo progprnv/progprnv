@@ -6,11 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=progprnv)
 
-- 👋 Hi, I’m @progprnv
-- 👀 I’m a Cybersecurity Engineer & Dev
-- 🌱 I’m currently learning B.Tech CSE
-- 💞️ I’m looking to collaborate on projects in my niche
-
+**Myself Pranav - JUST ANOTHER CYBERSECURITY ENGINEER AND WEB DEV**
 
 
 <!--
