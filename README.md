@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=progprnv)
 
-**Myself Pranav - JUST ANOTHER CYBERSECURITY ENGINEER AND WEB DEV**
+**Myself Pranav - JUST YET ANOTHER CYBERSECURITY ENGINEER AND WEB DEV**
 
 
 <!--
