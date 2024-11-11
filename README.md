@@ -2,7 +2,7 @@
 
 ![motivation (1)](https://github.com/user-attachments/assets/6453459a-7b0a-4be5-a8d0-399203ba4a4c)
 
-**------------------------------------FAIL UNTIL FAILURE FAILS TO YOU!---------------------------------------------**
+**<<<<<<<<<<<<<<<<<   FAIL UNTIL FAILURE FAILS TO YOU!   >>>>>>>>>>>>>>>>>**
 
 ![](https://komarev.com/ghpvc/?username=progprnv)
 
