@@ -42,10 +42,14 @@ https://github.com/user-attachments/assets/622506cf-c303-4d6d-9488-0400bb5b4099 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,python,kali_linux&perline=13)](#)
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Latest Released Tool:**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> 
+
+<!-- **Latest Released Tool:**  i removed # this part let me scope this section for future updates
 
 
 <img src="https://github.com/user-attachments/assets/fb2e6570-6f07-4c94-846c-fa09d4e0c47d" alt="Project Image" width="150" height="70">
+
+!-->
 
 
 
